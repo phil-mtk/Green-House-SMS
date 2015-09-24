@@ -1,7 +1,7 @@
 #include "LGSM.h"
 
 #define WATER_SENSOR A1
-const char* contact_no = "07770410959";
+const char* contact_no = "0123456798";
 
 
 void setup() {
